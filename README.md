@@ -29,7 +29,7 @@ node solve.js second.json --coeffs
 Expected Output
 
 Sample Testcase
-Secret f(0): 3
+(Constant) Secret f(0): 3
 
 Second Testcase
-Secret f(0): -6290016743746469796
+(Constant) Secret f(0): -6290016743746469796
